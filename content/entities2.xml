@@ -1,0 +1,6 @@
+<entities version="5" anm2root="gfx/">
+    <!-- blip -->
+    <entity name="Blip Skin" boss="0" bossid="99" id="950" variant="001" subtype="001" champion="0" reroll="true" bestiary="false" anm2path="enemies/blip/blip.anm2">
+        <gibs amount="0" blood="0" bone="0" eye="0" gut="0" large="0" />
+    </entity>
+</entities>
