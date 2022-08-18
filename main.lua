@@ -1,5 +1,7 @@
 local mod = RegisterMod("DeliriousEnemies", 1)
 
+require("scripts.enemies.blipcode")
+
 local IsInVoid = false
 local VoidRoomClearCount = 0
 local rng = RNG()
